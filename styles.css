@@ -91,12 +91,12 @@ ul {
     align-items: center;
     margin-right: 20px;
     border-radius: 50%;
+    background-color: #e021ba;
+    font-size: 20px;
 }
 .profile-container{
     display: grid;
     grid-template-rows: 1fr 2fr 2fr 3fr 4fr;                                                 
-    border: 1px solid #38444d;
-    border-radius: 10px;
     background-color: black;
     margin: 0;
     height: 100vh;
@@ -104,8 +104,8 @@ ul {
 }
 .for-you{
 color: rgb(140, 145, 152);
-border: 1px solid #38444d;
 margin-top: 5px;
+padding: 10px;
 display: flex;
 align-items:center;
 justify-content: space-around;
